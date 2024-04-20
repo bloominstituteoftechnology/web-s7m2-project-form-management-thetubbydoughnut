@@ -20,7 +20,7 @@ You have been given a take-home coding assessment as part of the hiring process 
 
 From the point of view of the data, each team member has `fname`, `lname` and `bio` properties. The form captures these values using two inputs and a textarea.
 
-You have a [detailed mock](https://bloominstituteoftechnology.github.io/W_S7M2_Project/) that shows the desired end result.
+You have a [detailed mock](https://bloominstituteoftechnology.gith ub.io/W_S7M2_Project/) that shows the desired end result.
 
 ### 💾 Setup
 
